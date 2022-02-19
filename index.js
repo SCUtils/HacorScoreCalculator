@@ -42,6 +42,7 @@ function handleClearSelections() {
   for (const element of selectElements) {
     element.querySelectorAll('option')[0].selected = true;
   }
+  document.getElementById('hacorScore').innerHTML = '';
   removeWarningMessage(0);
 }
 
