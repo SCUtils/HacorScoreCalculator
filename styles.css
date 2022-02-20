@@ -46,7 +46,7 @@ button:hover {
   align-items: center;
   display: flex;
   flex-flow: column;
-  height: 20rem;
+  height: 22rem;
   justify-content: space-between;
   width: 21.875rem;
 }
@@ -61,7 +61,7 @@ button:hover {
   display: inline-block;
   margin: 0 0.5rem;
   text-align: right;
-  width: 8rem;
+  width: 10rem;
 }
 
 .form-select {
@@ -106,7 +106,7 @@ button:hover {
 }
 
 .form-references {
-    max-width: 25rem;
+  max-width: 25rem;
 }
 
 footer {
